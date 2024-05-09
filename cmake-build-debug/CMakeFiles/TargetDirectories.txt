@@ -1,0 +1,3 @@
+C:/Users/Ita/CLionProjects/c++prilojeniq_09/05/24/cmake-build-debug/CMakeFiles/24.dir
+C:/Users/Ita/CLionProjects/c++prilojeniq_09/05/24/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ita/CLionProjects/c++prilojeniq_09/05/24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
