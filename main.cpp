@@ -28,8 +28,7 @@ int main() {
             memmove(occurrences, occurrences + strlen(wordsToRemove[i]), strlen(occurrences + strlen(wordsToRemove[i])) + 1);
             occurrences = strstr(occurrences, wordsToRemove[i]); // Move to the next occurrence
         }
-    }git remote -v
-git branch
+    }
 
     cout << "Text after removing words:" << endl;
     cout << text << endl;
